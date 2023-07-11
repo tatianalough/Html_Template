@@ -1,0 +1,5 @@
+> What is a CryptoCurrency?
+Crypto is short for cryptocurrency, a type of digital or virtual currency that uses cryptography to secure and verify transactions and to control the creation of new units. Cryptocurrencies are decentralized, meaning they are not controlled by a central authority like a government or a bank. Instead, they use a distributed ledger technology called blockchain to record transactions and maintain the integrity of the currency.
+
+The most well-known cryptocurrency is Bitcoin, which was created in 2009. Since then, thousands of other cryptocurrencies have been created, each with its own unique features and use cases. Some cryptocurrencies are designed for fast and cheap transactions, while others prioritize privacy or security. Cryptocurrencies can be bought and sold on exchanges, and can also be used to purchase goods and services from merchants who accept them as payment.
+
